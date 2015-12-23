@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:showIn="@layout/activity_creatingnewalbum"
+    tools:context="com.example.yzhuo.finalproject.creatingnewalbumActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter the Album Details"
+        android:id="@+id/textView"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textSize="20dp"
+        android:textColor="#395ecc" />
+
+    <!--<TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Album Title"
+        android:id="@+id/textView2"
+        android:layout_marginTop="38dp"
+        android:textColor="#b71a1a"
+        android:textSize="15dp"
+        android:layout_below="@+id/textView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />-->
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:ems="10"
+        android:id="@+id/editText_album_title"
+        android:layout_below="@+id/textView"
+        android:hint="Album Title"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/background_transparentbluelight_round"
+        android:layout_centerHorizontal="true"
+        android:padding="10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pick a cover photo for the album"
+        android:id="@+id/textView3"
+        android:paddingTop="30dp"
+        android:textColor="#de3030"
+        android:textSize="15dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/editText_album_title" />
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:id="@+id/imageViewcover"
+        android:src="@mipmap/ic_photo"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/textView3"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Privacy Settings"
+            android:id="@+id/textView4"
+            android:textSize="15dp"
+            android:textColor="#ce4040"
+            android:layout_below="@id/imageViewcover"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_below="@id/textView4"
+            android:id="@+id/ll2">
+
+            <RadioGroup
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/imageViewcover"
+                android:id="@+id/radioGroup"
+                android:gravity="center_horizontal">
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Public"
+                android:id="@+id/radioButtonpublic"
+                android:layout_below="@+id/textView4"
+                android:layout_weight=".5" />
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Private"
+                android:id="@+id/radioButtonprivate"
+                android:layout_weight=".5" />
+            </RadioGroup>
+        </LinearLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@+id/ll2"
+        android:layout_marginTop="10dp">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cancel"
+            android:id="@+id/buttoncancelalbum"
+            android:layout_weight=".5"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Add Album"
+            android:id="@+id/buttonaddalbum"
+            android:layout_weight=".5" />
+
+    </LinearLayout>
+
+
+</RelativeLayout>

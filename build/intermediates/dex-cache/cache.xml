@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\yzhuo\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\yzhuo\Dropbox\UNCC\Mobile App\final\final\app\build\intermediates\pre-dexed\release\support-annotations-23.1.1-cbd450a0a16cd110c128877235f28f8b3c20f069.jar" />
+    </item>
+    <item
+        jar="C:\Users\yzhuo\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\yzhuo\Dropbox\UNCC\Mobile App\final\final\app\build\intermediates\pre-dexed\release\gson-2.3.1-d6d342e5dab63ea0186fa9505cc3ad802eb05e04.jar" />
+    </item>
+    <item
+        jar="C:\Users\yzhuo\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.1\44780c2cf98f6a3cf4e77f1234d644758b329201\bolts-android-1.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44780c2cf98f6a3cf4e77f1234d644758b329201">
+        <dex dex="C:\Users\yzhuo\Dropbox\UNCC\Mobile App\final\final\app\build\intermediates\pre-dexed\release\bolts-android-1.2.1-18a0808d9447ebc40f87c920e10e208e04d932c3.jar" />
+    </item>
+    <item
+        jar="C:\Users\yzhuo\.gradle\caches\modules-2\files-2.1\com.parse\parsetwitterutils-android\1.10.3\8d945a26edb86e14260343e2a0dbe2ddd8937b73\parsetwitterutils-android-1.10.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d945a26edb86e14260343e2a0dbe2ddd8937b73">
+        <dex dex="C:\Users\yzhuo\Dropbox\UNCC\Mobile App\final\final\app\build\intermediates\pre-dexed\release\parsetwitterutils-android-1.10.3-7f00a29fca1260dbf1cbb7bea775cea980ade902.jar" />
+    </item>
+    <item
+        jar="C:\Users\yzhuo\Dropbox\UNCC\Mobile App\final\final\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.6.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1c1afa0ab2a8197a5da1b36c4167a9e479cb74d9">
+        <dex dex="C:\Users\yzhuo\Dropbox\UNCC\Mobile App\final\final\app\build\intermediates\pre-dexed\release\classes-4614f1c191eca41dc59337faadfd83505e96d660.jar" />
+    </item>
+    <item
+        jar="C:\Users\yzhuo\Dropbox\UNCC\Mobile App\final\final\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="C:\Users\yzhuo\Dropbox\UNCC\Mobile App\final\final\app\build\intermediates\pre-dexed\release\classes-263f4e6bdb85eb6bf14cbe38a73ad8e5e256f522.jar" />
+    </item>
+    <item
+        jar="C:\Users\yzhuo\Dropbox\UNCC\Mobile App\final\final\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\yzhuo\Dropbox\UNCC\Mobile App\final\final\app\build\intermediates\pre-dexed\release\internal_impl-23.1.1-808a10d65baa4db74ef935bb5bc26e1fd625aa75.jar" />
+    </item>
+    <item
+        jar="C:\Users\yzhuo\Dropbox\UNCC\Mobile App\final\final\app\libs\socialauth-4.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a867292683d6086af72c7cac181892e118058989">
+        <dex dex="C:\Users\yzhuo\Dropbox\UNCC\Mobile App\final\final\app\build\intermediates\pre-dexed\release\socialauth-4.4-cdc261344d1e355c20ddcfaa7d49a1e67f1e2e99.jar" />
+    </item>
+    <item
+        jar="C:\Users\yzhuo\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\yzhuo\Dropbox\UNCC\Mobile App\final\final\app\build\intermediates\pre-dexed\release\picasso-2.5.2-0cfe29bd010ab97ffe753eadd9a35e2ebed437a7.jar" />
+    </item>
+    <item
+        jar="C:\Users\yzhuo\Dropbox\UNCC\Mobile App\final\final\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="C:\Users\yzhuo\Dropbox\UNCC\Mobile App\final\final\app\build\intermediates\pre-dexed\release\classes-b8216733103d9ac375da4db7df9688dbfa288c94.jar" />
+    </item>
+    <item
+        jar="C:\Users\yzhuo\Dropbox\UNCC\Mobile App\final\final\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\yzhuo\Dropbox\UNCC\Mobile App\final\final\app\build\intermediates\pre-dexed\release\classes-8f23950b187932ef282760edb734bb1dafb3afb0.jar" />
+    </item>
+    <item
+        jar="C:\Users\yzhuo\Dropbox\UNCC\Mobile App\final\final\app\build\intermediates\exploded-aar\com.parse\parsefacebookutils-v4-android\1.10.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="771e1739a38be7573c55458d16ca2d2f9f546cf7">
+        <dex dex="C:\Users\yzhuo\Dropbox\UNCC\Mobile App\final\final\app\build\intermediates\pre-dexed\release\classes-901a1ed510e8c09a5ca579e9171b6d060629006c.jar" />
+    </item>
+    <item
+        jar="C:\Users\yzhuo\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.10.2\2eaa8b8ca97c915eab3883bab40e15611e5e0393\parse-android-1.10.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2eaa8b8ca97c915eab3883bab40e15611e5e0393">
+        <dex dex="C:\Users\yzhuo\Dropbox\UNCC\Mobile App\final\final\app\build\intermediates\pre-dexed\release\parse-android-1.10.2-5ea3cf59d9d0e0cee067e04e8f1d006ff144cd94.jar" />
+    </item>
+    <item
+        jar="C:\Users\yzhuo\Dropbox\UNCC\Mobile App\final\final\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\yzhuo\Dropbox\UNCC\Mobile App\final\final\app\build\intermediates\pre-dexed\release\classes-f0431b422824aca8d784ac68612372e9a35e8a1a.jar" />
+    </item>
+    <item
+        jar="C:\Users\yzhuo\Dropbox\UNCC\Mobile App\final\final\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\yzhuo\Dropbox\UNCC\Mobile App\final\final\app\build\intermediates\pre-dexed\release\classes-242a4892707840cea918e74cfee5280ba2e4390a.jar" />
+    </item>
+
+</items>
